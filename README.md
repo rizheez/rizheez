@@ -51,6 +51,6 @@ I enjoy building web applications using **Laravel**, **Vue.js**, **React.js**, *
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-kohl-seven-66.vercel.app/api/top-langs/?username=rizheez&layout=compact&theme=tokyonight&count_private=true" alt="Top languages" />
-  <img src="https://github-readme-stats-kohl-seven-66.vercel.app/api?username=rizheez&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-kohl-seven-66.vercel.app/api/top-langs/?username=rizheez&layout=compact&theme=tokyonight&include_all_commits=true" alt="Top languages" />
+  <img src="https://github-readme-stats-kohl-seven-66.vercel.app/api?username=rizheez&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
 </p>
