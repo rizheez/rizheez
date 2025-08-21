@@ -1,10 +1,9 @@
 # Hi there👋  
 
 
-I'm Muhammad Reza Saputra, and I’m an enthusiastic developer with a background in **networking** and **web development**.  
-I enjoy building web applications using **Laravel**, **Vue.js**, **React.js**, **Go**, and modern JavaScript tools.  
+I'm Muhammad Reza Saputra from **Indonesia**, and I’m an enthusiastic developer with a background in **networking** and **web development**.  
+I enjoy building web applications using **Laravel**, **Vue.js**, **React.js**, **Go**, and modern JavaScript tools.   
 
-Currently, I'm looking for **remote opportunities** where I can grow professionally and contribute to **Laravel- or Go-based projects**, either independently or within a team.  
 
 ---
 
@@ -13,7 +12,7 @@ Currently, I'm looking for **remote opportunities** where I can grow professiona
 ### 🌐 Frontend
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -50,7 +49,7 @@ Currently, I'm looking for **remote opportunities** where I can grow professiona
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizheez&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizheez&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizheez&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizheez&theme=tokyonight&count_private=true" alt="Top languages" />
 </p>
