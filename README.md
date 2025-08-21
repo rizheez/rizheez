@@ -3,8 +3,6 @@
 I'm Muhammad Reza Saputra I'm an enthusiastic developer with a background in **networking** and **web development**.  
 I enjoy building web applications using **Laravel**, **Vue.js**, **React.js**, **Go**, and modern JavaScript tools.  
 
-Currently, I'm looking for **remote opportunities** where I can grow professionally and contribute to **Laravel- or Go-based projects**, either independently or within a team.  
-
 ---
 
 ## 🛠️ Skills  
