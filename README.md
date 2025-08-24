@@ -37,7 +37,6 @@ I enjoy building web applications using **Laravel**, **Vue.js**, **React.js**, *
 
 ---
 
-## 📫 How to reach me
 - Email: [rezamuhammad980@gmail.com](mailto:rezamuhammad980@gmail.com)  
 - LinkedIn: [Muhammad Reza Saputra](https://www.linkedin.com/in/muhammad-reza-saputra-b6a81726b/)  
 - Website: [mrezasaputra.vercel.app](https://mrezasaputra.vercel.app/)  
