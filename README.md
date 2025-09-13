@@ -1,7 +1,7 @@
 # Hi there👋  
 
 
-I'm Muhammad Reza Saputra from **Indonesia**, and I’m an enthusiastic developer with a background in **networking** and **web development**.  
+I’m an enthusiastic developer with a background in **networking** and **web development**.  
 I enjoy building web applications using **Laravel**, **Vue.js**, **React.js**, **Go**, and modern JavaScript tools.   
 
 
